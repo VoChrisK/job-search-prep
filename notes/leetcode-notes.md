@@ -18,7 +18,7 @@
 * Good Leetcode problem for the Map data structure: https://leetcode.com/problems/copy-list-with-random-pointer/description/
 
 ## Looping in JS
-* For of is used for iterable object like arrays
+* For of is used for iterable data structures like arrays, strings, etc.
 * For in is used for objects
 
 ## Sorting in JS
