@@ -51,4 +51,14 @@
 * # Absolute vs Relative positioning CSS
   * Position: absolute - position element based on its closes positioned ancestor position - relative to its parent’s pos and changing the layout around it
   * Position: relative - position element based on its current pos w/o changing layout
-  * https://leannezhang.medium.com/difference-between-css-position-absolute-versus-relative-35f064384c6 
+  * https://leannezhang.medium.com/difference-between-css-position-absolute-versus-relative-35f064384c6
+  * ![Image2](images/image2.png)
+* Object Oriented Programming vs Functional Programming vs Reactive Programming (RxJS is reactive programming)
+* Public, Private, Protected
+  * Public - can be accessed everywhere
+  * Protected - can be accessed only within the class itself and by inheriting child classes
+    * Ex. a method declared “protected” in the SS base container, would be accessible by SS base container and all inheriting children
+  * Private - can only be accessed by the class that defines the member
+* Async and Promises
+  * Async and Promises 
+  * https://github.com/jumaschion/You-Dont-Know-JS-1/tree/master/async%20%26%20performance
